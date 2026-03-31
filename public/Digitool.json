@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "description": "Basic tools for beginners\nPerfect for personal use",
+    "price": 0,
+    "icon": "../src/assets/writing_2327400 1.png",
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "10+ templates",
+      "Basic customization",
+      "Export to PDF"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basic Plan",
+    "description": "Simple features for daily use\nGood for students",
+    "price": 5,
+    "icon": "../src/assets/design-tool.png",
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "20+ templates",
+      "Email support",
+      "Export to PDF"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pro Plan",
+    "description": "Advanced tools for professionals\nBest for freelancers",
+    "price": 12,
+    "icon": "../src/assets/Group.png",
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Priority support",
+      "Export to PDF & DOCX"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Premium Plan",
+    "description": "Premium features with flexibility\nGreat for power users",
+    "price": 20,
+    "icon": "../src/assets/operation.png",
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "200+ templates",
+      "Advanced customization",
+      "Cloud storage",
+      "Export in multiple formats"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Team Plan",
+    "description": "Collaboration tools for teams\nIdeal for small teams",
+    "price": 49,
+    "icon": "../src/assets/portfolio.png",
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Team access",
+      "Shared workspace",
+      "Real-time editing",
+      "Admin controls"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Business Plan",
+    "description": "Complete business solution\nBest for companies",
+    "price": 99,
+    "icon": "../src/assets/social-media.png",
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Unlimited templates",
+      "Team collaboration",
+      "Advanced analytics",
+      "Custom branding"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Enterprise Plan",
+    "description": "Enterprise-grade features\nFor large organizations",
+    "price": 199,
+    "icon": "../src/assets/shopping-cart.png",
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Dedicated support",
+      "Custom integrations",
+      "High security",
+      "Unlimited users"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Student Plan",
+    "description": "Affordable plan for students\nBudget-friendly tools",
+    "price": 2,
+    "icon": "../src/assets/design-tool.png",
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "15+ templates",
+      "Basic editing tools",
+      "Export to PDF",
+      "Email support"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Lifetime Deal",
+    "description": "One-time payment\nLifetime access to all features",
+    "price": 299,
+    "icon": "../src/assets/writing_2327400 1.png",
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "All premium features",
+      "Lifetime updates",
+      "Priority support",
+      "Unlimited exports"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Custom Plan",
+    "description": "Flexible plan based on your needs\nContact for pricing",
+    "price": 0,
+    "icon": "../src/assets/operation.png",
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Custom features",
+      "Dedicated manager",
+      "Flexible billing",
+      "Full customization"
+    ]
+  }
+]
