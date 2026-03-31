@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "description": "Basic tools for beginners",
+    "price": 0,
+    "button":"Get Started Free",
+     "buttonText": "Start Pro Trial",
+    "isPopular": false,
+    "features": [
+      "10+ templates",
+      "Basic customization",
+      "Export to PDF",
+      "Email support",
+      "Limited storage",
+      "Basic analytics"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Basic Plan",
+    "description": "Simple features for daily use",
+    "price": 5,
+     "button":"Start Pro Trial",
+     "isPopular": true,
+      "buttonText": "Start Pro Trial",
+    "features": [
+      "20+ templates",
+      "Email support",
+      "Export to PDF",
+      "Custom colors",
+      "Cloud backup",
+      "Basic integrations"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pro Plan",
+    "description": "Advanced tools for professionals",
+    "price": 12,
+     "button":"Contact Sales",
+     "isPopular": false,
+       "buttonText": "Contact Sales",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Priority support",
+      "Export to PDF & DOCX",
+      "Advanced customization",
+      "Cloud storage",
+      "Analytics dashboard"
+    ]
+  }]

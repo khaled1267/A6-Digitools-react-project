@@ -1,17 +1,17 @@
 import { MdOutlineShoppingCart } from "react-icons/md";
 
-const NavBar = () => {
+const NavBar = ({ carts }) => {
   return (
     <div className="navbar p-5 w-full md:w-11/12 mx-auto">
       <div className="navbar-start">
         <div>
-          <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#4F39F6] to-[#9514FA] ">
+          <h1 className="text-5xl  font-bold text-transparent bg-clip-text bg-gradient-to-r from-[#4F39F6] to-[#9514FA] ">
             DigiTools
           </h1>
         </div>
       </div>
       <div className="navbar-center hidden md:flex">
-        <ul className="menu menu-horizontal gap-10 px-1 text-lg">
+        <ul className="menu menu-horizontal gap-2 px-1 text-lg">
           <li>
             <a>Products</a>
           </li>
@@ -30,10 +30,21 @@ const NavBar = () => {
         </ul>
       </div>
       <div className="navbar-end gap-5">
-        <button className=" btn">
-          <MdOutlineShoppingCart></MdOutlineShoppingCart> Login
+        <button className="btn px-5 flex items-center">
+          <MdOutlineShoppingCart  size={20}/>
+
+        
+          {carts.length > 0 && (
+            <p className="-mt-5 -ml-2.5 px-1  rounded-full bg-red-600 text-white font-bold">
+              {carts.length}
+            </p>
+          )}
+
+          <span className="ml-3">Login</span>
         </button>
-        <a className="btn bg-gradient-to-r from-[#4F39F6] to-[#9514FA] rounded-full text-white">Get Started</a>
+        <a className="btn bg-gradient-to-r from-[#4F39F6] to-[#9514FA] rounded-full text-white">
+          Get Started
+        </a>
       </div>
     </div>
   );
