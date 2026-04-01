@@ -54,7 +54,7 @@ const Maincart = ({ digital, carts, setcarts }) => {
         <h1 className="text-3xl font-bold">{digital.name}</h1>
         <p className="text-[16px] text-[#627382]">{digital.description}</p>
         <p className="text-3xl font-bold ">
-          ${digital.price} <span className="text-xl text-[#627382]">/{digital.period} </span>
+          ${digital.price} <span className="text-xl text-[#627382]  ">/{digital.period} </span>
         </p>
 
         <div className="mt-8 space-y-4">

@@ -48,8 +48,8 @@ const PricingSection = ({feturepro}) => {
 
               <button className={`w-full py-3 rounded-xl font-bold transition-colors ${
                 plan.isPopular 
-                ? 'bg-white text-[#7C3AED] hover:bg-gray-100' 
-                : 'bg-[#6366F1] text-white hover:bg-[#4F46E5]'
+                ? 'bg-white text-[#7C3AED] ' 
+                : 'bg-[#6366F1] text-white '
               }`}>
                 {plan.buttonText}
               </button>

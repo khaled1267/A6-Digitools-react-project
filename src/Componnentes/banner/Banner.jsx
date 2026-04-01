@@ -1,7 +1,7 @@
 import { FaDotCircle } from "react-icons/fa";
-import bannerimg from "../../assets/banner.png";
+import bannerimg from "/assets/banner.png";
 
-import playimg from "../../assets/Play.png"
+import playimg from "/assets/Play.png"
 
 const Banner = () => {
   return (

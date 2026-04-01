@@ -1,7 +1,7 @@
 import React from "react";
-import userimg from "../../assets/user.png";
-import pacimg from "../../assets/package.png";
-import rocimg from "../../assets/rocket.png";
+import userimg from "/assets/user.png";
+import pacimg from "/assets/package.png";
+import rocimg from "/assets/rocket.png";
 
 const Getstart = () => {
   return (

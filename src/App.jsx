@@ -7,7 +7,7 @@ import Cardtritale from './Componnentes/main-sec/Cardtritale'
 import NavBar from './Componnentes/navber/Navber'
 import StatsSection from './Componnentes/state/State'
 import Getstart from './Componnentes/get-start/Getstart'
-import Pricing from './Componnentes/get-start/Pricing'
+
 import PricingTable from './Componnentes/get-start/Pricing'
 import Worksection from './Componnentes/get-start/Workflow'
 import Footer from './Componnentes/footer/Footer'
