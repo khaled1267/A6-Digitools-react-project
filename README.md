@@ -20,24 +20,22 @@ DigiTools is a sophisticated digital services marketplace designed to streamline
 # 🖼️ Project Screenshots
 
 ## 🏠 Hero Section
-![Hero Section](https://i.ibb.co/image-ee9b34.jpg)
+![Hero Section]https://i.ibb.co.com/BVWQWm2K/Screenshot-2026-05-12-145924.png
 
 ---
 
 ## 💳 Pricing Plans
-![Pricing Section](https://i.ibb.co/image-ee9b50.jpg)
-
+![Pricing Section]https://i.ibb.co.com/BVWQWm2K/Screenshot-2026-05-12-145924.png
 ---
 
 ## 🛒 Premium Products
-![Products Section](https://i.ibb.co/image-ee9b1b.jpg)
+![Products Section]https://i.ibb.co.com/pv8ksJ2H/Screenshot-2026-05-12-145942.png
 
 ---
 
 # 🚀 Live Links
 
-🌐 **Live Site:** [আপনার লাইভ সাইট লিংক এখানে দিন]
-
+🌐 **Live Site:** https://a6-digitools-react-project.vercel.app/
 💻 **GitHub Repository:** [https://github.com/khaled1267/A6-Digitools-react-project](https://github.com/khaled1267/A6-Digitools-react-project)
 
 ---
@@ -58,19 +56,23 @@ DigiTools is a sophisticated digital services marketplace designed to streamline
 ---
 
 # ✨ Main Features
+✅ Tiered Pricing Model: Setup for Starter ($0), Basic ($5), and Pro ($12) plans.
 
-- ✅ **Tiered Pricing Model:** Starter ($0), Basic ($5), এবং Pro ($12) প্ল্যান সেটআপ।
-- ✅ **Dynamic Product Listing:** ক্যাটাগরি ভিত্তিক প্রিমিয়াম টুলস প্রদর্শন।
-- ✅ **Responsive UI:** মোবাইল, ট্যাবলেট এবং ডেস্কটপের জন্য শতভাগ রেসপনসিভ।
-- ✅ **Interactive CTA:** "Start Pro Trial" এবং "Contact Sales" এর মতো ইন্টারঅ্যাক্টিভ বাটন।
-- ✅ **Modern Design:** গ্রেডিয়েন্ট টেক্সট এবং গ্লাস-মরফিজম ইফেক্টের ব্যবহার।
-- ✅ **User Experience:** খুব দ্রুত লোডিং টাইম এবং স্মুথ নেভিগেশন।
+✅ Dynamic Product Listing: Category-based display of premium tools.
+
+✅ Responsive UI: 100% responsive design for mobile, tablet, and desktop devices.
+
+✅ Interactive CTA: Interactive buttons like "Start Pro Trial" and "Contact Sales".
+
+✅ Modern Design: Use of gradient text and glassmorphism effects.
+
+✅ User Experience: Blazing fast loading times and smooth navigation.
 
 ---
 
 # 📦 Dependencies
 
-প্রজেক্টটি সফলভাবে চালানোর জন্য নিচের প্যাকেজগুলো ব্যবহৃত হয়েছে:
+Pacage
 
 ```json
 {
